@@ -1,4 +1,4 @@
-package com.feidao
+package cc.xstack
 
 object HelloScala {
   
